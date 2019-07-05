@@ -1,0 +1,10 @@
+.block-with-config {
+  padding: 4rem 1rem;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.4);
+  border: 1rem solid rgba(255, 255, 255, 0.2);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

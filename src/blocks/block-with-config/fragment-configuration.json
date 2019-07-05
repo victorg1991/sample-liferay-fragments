@@ -1,0 +1,25 @@
+{
+  "fieldSets": [
+    {
+      "name": "sizing",
+      "label": "Sizing",
+      "fields": [
+        {
+          "name": "padding",
+          "label": "padding",
+          "description": "block-padding",
+          "type": "select",
+          "dataType": "string",
+          "typeOptions": {
+            "validValues": [
+              "small",
+              "normal",
+              "big"
+            ]
+          },
+          "defaultValue": "normal"
+        }
+      ]
+    }
+  ]
+}

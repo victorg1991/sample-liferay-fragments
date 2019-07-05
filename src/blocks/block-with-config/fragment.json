@@ -1,0 +1,8 @@
+{
+  "cssPath": "styles.css",
+  "fragmentConfigurationPath": "fragment-configuration.json",
+  "htmlPath": "index.html",
+  "jsPath": "main.js",
+  "name": "Block with config",
+  "type": ""
+}
